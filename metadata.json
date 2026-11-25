@@ -1,0 +1,6 @@
+{
+  "name": "Bilim Campus 3D",
+  "description": "Interactive 3D school courtyard and walkable classrooms with trilingual school rules of conduct in Kazakh, Russian, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
